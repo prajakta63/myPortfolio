@@ -19,6 +19,7 @@
 
 .menu{
     display: flex;
+    align-items: center;
 }
 
 .menuItems{
@@ -31,6 +32,11 @@
     font-size: 25px;
     text-decoration: none;
     color: var(--color-text);
+}
+
+.menuBtn {
+    display: none;
+    cursor: pointer;
 }
 
 @media screen and (max-width: 830px){
