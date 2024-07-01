@@ -2,17 +2,13 @@
     {
       "title": "Gamitar",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "Developed multiplayer gaming event organizing platform for user to create and manage their gaming account with Bootstrap4, React.Js.",
+      "skills": ["React", "Sass", "Node"]
     },
     {
-      "title": "Project B",
+      "title": "Sentimental Analysis of Reviews Using Machine Learning",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "Devised an analysis tool to classify the tweets obtained from user's keyword.",
+      "skills": ["Machine Learning", "Naive Bayes algorithm"]
     }
   ]
